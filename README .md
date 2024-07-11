@@ -1,19 +1,14 @@
-# Project Title
 
-Assignment 10 -BINF6309  -Bioinformatics
+## Description
 
-NUID - 002938389
+- To install PLink and study the genome wide associations following the tutorial
+
 
 ## Authors
 
 -Prachi Sardana
 
 -sardana.p@northeastern.edu
-
-
-## Description
-
-- To install PLink and study the genome wide associations following the tutorial
 
 ## Getting Started
 
